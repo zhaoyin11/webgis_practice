@@ -1,10 +1,10 @@
 # webgis
 
-> A Vue.js project
+> 本意是想要写一个关于使用 arcgis 完成的地图的，但是遇到了一些困难哈哈哈，只能后面再看看
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
