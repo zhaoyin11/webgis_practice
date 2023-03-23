@@ -5,6 +5,10 @@
 ## Build Setup
 
 ```bash
+
+今天使用vue-pdf做了pdf预览和打印，解决了打印乱码问题--2023-03-23
+
+
 # install dependencies
 npm install
 
